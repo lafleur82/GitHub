@@ -1,0 +1,7 @@
+﻿  preprocessingconditionals.c
+c:\users\dotlaptop\documents\visual studio 2015\projects\project1\project1\preprocessingconditionals.c(8): warning C4005: 'FOPEN_MAX': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(59): note: see previous definition of 'FOPEN_MAX'
+c:\users\dotlaptop\documents\visual studio 2015\projects\project1\project1\preprocessingconditionals.c(9): warning C4005: 'FILENAME_MAX': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(58): note: see previous definition of 'FILENAME_MAX'
+  Project1.vcxproj -> C:\Users\DOTlaptop\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\DOTlaptop\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)

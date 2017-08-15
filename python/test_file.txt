@@ -1,0 +1,7 @@
+These are words.
+This is the second line.
+I am a third line.
+The 4th line contains number.
+5 lines! Let's throw some !@#$ing special characters in here!
+6th line, wow!
+7th time is the charm

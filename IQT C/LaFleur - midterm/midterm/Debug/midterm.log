@@ -1,0 +1,10 @@
+﻿  Unit Test Code v1.c
+c:\users\dotlaptop\documents\visual studio 2015\projects\lafleur - midterm\midterm\unit test code v1.c(180): warning C4013: 'strncmp' undefined; assuming extern returning int
+c:\users\dotlaptop\documents\visual studio 2015\projects\lafleur - midterm\midterm\unit test code v1.c(261): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\dotlaptop\documents\visual studio 2015\projects\lafleur - midterm\midterm\unit test code v1.c(267): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\dotlaptop\documents\visual studio 2015\projects\lafleur - midterm\midterm\unit test code v1.c(292): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\dotlaptop\documents\visual studio 2015\projects\lafleur - midterm\midterm\unit test code v1.c(298): warning C4013: 'memset' undefined; assuming extern returning int
+c:\users\dotlaptop\documents\visual studio 2015\projects\lafleur - midterm\midterm\unit test code v1.c(604): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+c:\users\dotlaptop\documents\visual studio 2015\projects\lafleur - midterm\midterm\unit test code v1.c(712): warning C4013: 'strlen' undefined; assuming extern returning int
+  midterm.vcxproj -> C:\Users\DOTlaptop\Documents\Visual Studio 2015\Projects\LaFleur - midterm\Debug\LaFleur - midterm.exe
+  midterm.vcxproj -> C:\Users\DOTlaptop\Documents\Visual Studio 2015\Projects\LaFleur - midterm\Debug\LaFleur - midterm.pdb (Partial PDB)
